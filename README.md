@@ -2,7 +2,7 @@
     
     class CandyFlipping():\
             def __init __(self):\
-            self.username = "laconeno a.k.a happy flipper "\
+            self.username = "laconeno a.k.a happy_flipper "\
             self.birthday = "19.02"\
             self.horoscope = "fish"\
             self.role = "inquisitive"\
@@ -11,7 +11,7 @@
             self.location = "oceanside"\
             self.enjoy = "orgasm; candyflipping"\
             self.learning = "playground; swift; c"\
-            self.working_on = "ethica_hack"\
+            self.working_on = "ethical_hack"\
             self.stay = "hard and wet"\
 
     def be_happy(self):\
